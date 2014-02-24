@@ -1,0 +1,6 @@
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\bin\Debug\sortAlgorithms.exe.config
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\bin\Debug\sortAlgorithms.exe
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\bin\Debug\sortAlgorithms.pdb
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\obj\Debug\sortAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\obj\Debug\sortAlgorithms.exe
+c:\users\jorge\documents\visual studio 2013\Projects\sortAlgorithms\sortAlgorithms\obj\Debug\sortAlgorithms.pdb
